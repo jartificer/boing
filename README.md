@@ -1,5 +1,5 @@
 # boing
-Ball of Increasing Newtonian Greatness - a pico-8 game
+Ball of Increasing Newtonian Greatness - a PICO-8 game
 
 BOING is my very first game. It is a not so accurate recreation of Pong. This is release 1.11. As it stands, it is quite playable, but I might add new features later on.
 
