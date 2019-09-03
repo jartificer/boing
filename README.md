@@ -3,7 +3,8 @@
 
 ![PNG cart](https://www.lexaloffle.com/bbs/cposts/1/18466.p8.png)
 
-BOING is my very first game. It is a not so accurate recreation of Pong. This is release 1.11. As it stands, it is quite playable, but I might add new features later on.
+BOING is my very first game. I released it back in 2016 on Lexaloffle and itch.io, coding it in my spare time for the course of a week. 
+The game is a not so accurate recreation of Pong, in the sense that paddles accelerate, and you can give the ball a slight spin by hitting it at the right speed.
 
 ## Player controls:
 
