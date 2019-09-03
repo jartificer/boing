@@ -5,11 +5,11 @@ BOING is my very first game. It is a not so accurate recreation of Pong. This is
 
 ## Player controls:
 
-Player 1: up and down arrows.
+**Player 1:** up and down arrows.
 
-Player 2: E and D
+**Player 2:** E and D
 
-Press X to skip intro and confirm menu selection.
+Press **X** to skip intro and confirm menu selection.
 
 
 ## [Original release on the Lexaloffle BBS](https://www.lexaloffle.com/bbs/?tid=3000)
