@@ -12,6 +12,5 @@ Player 2: E and D
 Press X to skip intro and confirm menu selection.
 
 
-## Original release on the Lexaloffle BBS:
-
-https://www.lexaloffle.com/bbs/?tid=3000
+## [Original release on the Lexaloffle BBS](https://www.lexaloffle.com/bbs/?tid=3000)
+![PNG cart](https://www.lexaloffle.com/bbs/cposts/1/18466.p8.png)
