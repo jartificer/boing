@@ -14,5 +14,5 @@ BOING is my very first game. It is a not so accurate recreation of Pong. This is
 Press **X** to skip intro and confirm menu selection.
 
 
-## [Original release on the Lexaloffle BBS](https://www.lexaloffle.com/bbs/?tid=3000)
+## [Play it](https://www.lexaloffle.com/bbs/?tid=3000) on the Lexaloffle BBS
 
