@@ -1,5 +1,7 @@
-# boing
+# BOING
 ## Ball of Increasing Newtonian Greatness - a PICO-8 game
+
+![PNG cart](https://www.lexaloffle.com/bbs/cposts/1/18466.p8.png)
 
 BOING is my very first game. It is a not so accurate recreation of Pong. This is release 1.11. As it stands, it is quite playable, but I might add new features later on.
 
@@ -13,4 +15,4 @@ Press **X** to skip intro and confirm menu selection.
 
 
 ## [Original release on the Lexaloffle BBS](https://www.lexaloffle.com/bbs/?tid=3000)
-![PNG cart](https://www.lexaloffle.com/bbs/cposts/1/18466.p8.png)
+
